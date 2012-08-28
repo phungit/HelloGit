@@ -9,6 +9,10 @@ public class BullWhip {
 		
 	}
 	
+	public static void whipItRealGood() {
+		
+	}
+	
 	public static void main(String[] args) {
 		System.out.println("BullWhip");
 
