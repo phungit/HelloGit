@@ -13,6 +13,7 @@ public class BullWhip {
 		System.out.println("BullWhip");
 
 		BullWhip.whipIt();
+		BullWhip.whipItGood();
 	}
 
 }
