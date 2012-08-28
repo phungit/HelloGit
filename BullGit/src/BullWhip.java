@@ -18,6 +18,7 @@ public class BullWhip {
 
 		BullWhip.whipIt();
 		BullWhip.whipItGood();
+		BullWhip.whipItRealGood();
 	}
 
 }
